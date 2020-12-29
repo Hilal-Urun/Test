@@ -1,0 +1,8 @@
+C_RED = "\033[91m"
+C_YELLOW = "\033[93m"
+C_GREEN = "\033[92m"
+C_BLUE = "\033[94m"
+C_BOLD = "\033[1m"
+C_ENDC = "\033[0m"
+C_USER = C_BOLD + C_GREEN
+C_AI = C_BOLD + C_RED
